@@ -1,4 +1,4 @@
-# Plany-Disease-Detection-
+# Plant-Disease-Detection-
 CNN model with background image removal 
 Data Preparation:
 
